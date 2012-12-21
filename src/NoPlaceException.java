@@ -1,8 +1,8 @@
 /**
- * Created with IntelliJ IDEA 10.5.
- * User: zhaoxw
- * Date: 12-12-10
- * Time: 下午3:10
+ * Created with IntelliJ IDEA.
+ * User: 51ibm
+ * Date: 12-10-18
+ * Time: 下午12:50
  * To change this template use File | Settings | File Templates.
  */
 public class NoPlaceException extends  RuntimeException {

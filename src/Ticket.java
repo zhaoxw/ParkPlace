@@ -1,10 +1,10 @@
 /**
- * Created with IntelliJ IDEA 10.5.
- * User: zhaoxw
- * Date: 12-12-10
- * Time: 下午3:10
+ * Created with IntelliJ IDEA.
+ * User: 51ibm
+ * Date: 12-11-11
+ * Time: 下午3:29
  * To change this template use File | Settings | File Templates.
  */
 public class Ticket {
-    private String TicketNum;
+    public Integer parkPlaceIndex;
 }
